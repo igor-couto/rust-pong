@@ -1,0 +1,4 @@
+(
+  title: "Rust Pong",
+  dimensions: Some((500, 500)),
+)
